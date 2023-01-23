@@ -1,0 +1,25 @@
+{
+  "name": "dalamudpluginrepo",
+  "version": "1.0.0",
+  "description": "Dalamud Plugin Repository",
+  "main": "generate-repository.js",
+  "scripts": {
+    "start": "node generate-repository.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redeven/DalamudPluginRepo.git"
+  },
+  "keywords": [
+    "dalamud"
+  ],
+  "author": "Redeven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redeven/DalamudPluginRepo/issues"
+  },
+  "homepage": "https://github.com/redeven/DalamudPluginRepo#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.56"
+  }
+}

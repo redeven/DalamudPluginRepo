@@ -1,0 +1,72 @@
+[
+    {
+        "Author": "Redeven",
+        "Name": "Auto Login",
+        "InternalName": "AutoLogin",
+        "AssemblyVersion": "1.1.0.1",
+        "Description": "Automatically logs you into a specified character when the game first opens.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/redeven/AutoLogin",
+        "Tags": [
+            "auto",
+            "login"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 1,
+        "IconUrl": "https://raw.githubusercontent.com/Redeven/AutoLogin/main/Resources/logo.png",
+        "Punchline": "Automatically logs you into a specified character when the game first opens.",
+        "AcceptsFeedback": true,
+        "LastUpdated": 1674332412,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/AutoLogin/master/bin/x64/Release/AutoLogin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/AutoLogin/master/bin/x64/Release/AutoLogin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/AutoLogin/master/bin/x64/Release/AutoLogin/latest.zip"
+    },
+    {
+        "Author": "Redeven",
+        "Name": "BetterTarget",
+        "InternalName": "BetterTargetPlugin",
+        "AssemblyVersion": "1.0.0.1",
+        "Description": "/btarget : Allows targetting closest entity that matches any term of a space-delimited list.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/redeven/BetterTargetPlugin",
+        "Tags": [
+            "target"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "A better target command",
+        "AcceptsFeedback": true,
+        "LastUpdated": 1673867368,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/BetterTargetPlugin/bin/x64/Release/BetterTargetPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/BetterTargetPlugin/bin/x64/Release/BetterTargetPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/BetterTargetPlugin/bin/x64/Release/BetterTargetPlugin/latest.zip"
+    },
+    {
+        "Author": "Redeven",
+        "Name": "XIV Interact",
+        "InternalName": "XIVInteractPlugin",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "/interact : Interacts with current target.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/redeven/XIVInteractPlugin",
+        "Tags": [
+            "interact",
+            "command",
+            "confirm"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "Adds a command to interact with current target.",
+        "AcceptsFeedback": true,
+        "LastUpdated": 1674439558,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip"
+    }
+]
