@@ -4,7 +4,9 @@
   "description": "Dalamud Plugin Repository",
   "main": "generate-repository.js",
   "scripts": {
-    "start": "node generate-repository.js"
+    "prestart": "git submodule update --recursive --remote",
+    "start": "node generate-repository.js",
+    "poststart": "git add -A && git commit -m \"Update plugin repository\" && git push"
   },
   "repository": {
     "type": "git",
