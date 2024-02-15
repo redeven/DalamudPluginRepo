@@ -1,6 +1,6 @@
 [submodule "BetterTargetPlugin"]
 	path = BetterTargetPlugin
-	url = https://github.com/redeven/BetterTargetPlugin.git
+	url = https://git.redeven.dev/redeven/BetterTargetPlugin.git
 [submodule "XIVInteractPlugin"]
 	path = XIVInteractPlugin
-	url = https://github.com/redeven/XIVInteractPlugin.git
+	url = https://git.redeven.dev/redeven/XIVInteractPlugin.git
