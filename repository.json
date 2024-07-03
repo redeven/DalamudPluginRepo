@@ -10,14 +10,14 @@
         "Tags": [
             "target"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "Punchline": "A better target command",
         "AcceptsFeedback": true,
-        "LastUpdated": 1698241474,
+        "LastUpdated": 1720003516,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/BetterTargetPlugin/bin/x64/Release/BetterTargetPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/BetterTargetPlugin/bin/x64/Release/BetterTargetPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/BetterTargetPlugin/bin/x64/Release/BetterTargetPlugin/latest.zip"
@@ -26,7 +26,7 @@
         "Author": "Redeven",
         "Name": "XIV Interact",
         "InternalName": "XIVInteractPlugin",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "Description": "/interact : Interacts with current target.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/redeven/XIVInteractPlugin",
@@ -35,14 +35,14 @@
             "command",
             "confirm"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "Punchline": "Adds a command to interact with current target.",
         "AcceptsFeedback": true,
-        "LastUpdated": 1698241807,
+        "LastUpdated": 1720004721,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/XIVInteractPlugin/master/XIVInteractPlugin/bin/x64/Release/XIVInteractPlugin/latest.zip"
