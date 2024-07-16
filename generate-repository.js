@@ -2,7 +2,7 @@ const { readdirSync, readFileSync, writeFileSync } = require('fs');
 const path = require('path');
 try {
   const repositories = readdirSync(path.resolve(__dirname), { withFileTypes: true })
-    .filter((d) => d.isDirectory() && d.name !== '.git')
+    .filter((d) => d.isDirectory() && !d.name.startsWith('.'))
     .map((d) => path.resolve(__dirname, d.name, 'repository.json'))
     .map((repoPath) => readFileSync(repoPath, 'utf-8'))
     .map((repoString) => JSON.parse(repoString));
