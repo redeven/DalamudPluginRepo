@@ -4,3 +4,6 @@
 [submodule "XIVInteractPlugin"]
 	path = XIVInteractPlugin
 	url = https://github.com/redeven/XIVInteractPlugin.git
+[submodule "AutoLoginReborn"]
+	path = AutoLoginReborn
+	url = https://github.com/redeven/AutoLoginReborn.git
