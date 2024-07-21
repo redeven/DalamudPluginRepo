@@ -1,9 +1,6 @@
-[submodule "BetterTargetPlugin"]
-	path = BetterTargetPlugin
-	url = https://github.com/redeven/BetterTargetPlugin.git
-[submodule "XIVInteractPlugin"]
-	path = XIVInteractPlugin
-	url = https://github.com/redeven/XIVInteractPlugin.git
 [submodule "AutoLoginReborn"]
 	path = AutoLoginReborn
 	url = https://github.com/redeven/AutoLoginReborn.git
+[submodule "TinyTweaks"]
+	path = TinyTweaks
+	url = https://github.com/redeven/TinyTweaks.git
