@@ -1,31 +1,6 @@
 [
     {
         "Author": "Redeven",
-        "Name": "Auto Login Reborn",
-        "InternalName": "AutoLoginReborn",
-        "AssemblyVersion": "1.0.0.7",
-        "Description": "Automatically logs you into a specified character when the game first opens.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/redeven/AutoLoginReborn",
-        "Tags": [
-            "auto",
-            "login"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 1,
-        "IconUrl": "https://raw.githubusercontent.com/Redeven/AutoLoginReborn/main/Resources/logo.png",
-        "Punchline": "Automatically logs you into a specified character when the game first opens.",
-        "AcceptsFeedback": true,
-        "LastUpdated": 1721171658,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/AutoLoginReborn/master/bin/x64/Release/AutoLoginReborn/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/AutoLoginReborn/master/bin/x64/Release/AutoLoginReborn/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/AutoLoginReborn/master/bin/x64/Release/AutoLoginReborn/latest.zip"
-    },
-    {
-        "Author": "Redeven",
         "Name": "TinyTweaks",
         "InternalName": "TinyTweaks",
         "AssemblyVersion": "1.0.0.0",

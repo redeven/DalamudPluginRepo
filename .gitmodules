@@ -1,6 +1,3 @@
-[submodule "AutoLoginReborn"]
-	path = AutoLoginReborn
-	url = https://github.com/redeven/AutoLoginReborn.git
 [submodule "TinyTweaks"]
 	path = TinyTweaks
 	url = https://github.com/redeven/TinyTweaks.git
