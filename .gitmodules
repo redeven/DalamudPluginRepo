@@ -1,3 +1,6 @@
 [submodule "TinyTweaks"]
 	path = TinyTweaks
 	url = https://github.com/redeven/TinyTweaks.git
+[submodule "VentureTime"]
+	path = VentureTime
+	url = https://github.com/redeven/VentureTime.git
